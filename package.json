@@ -1,0 +1,17 @@
+{
+  "name": "makercam-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "makerjs": "^0.13.1",
+    "monaco-editor": "^0.15.6",
+    "parcel-bundler": "^1.10.3",
+    "typescript": "^3.2.2"
+  }
+}
